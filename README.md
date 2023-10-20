@@ -2,7 +2,7 @@
 
 
 
-### Hi there 👋, my name is tomal
+### Hi there 👋, My Name Is Tomal
 #### I am web developer
 
 Skills: HTML / CSS / PHP
