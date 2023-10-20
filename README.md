@@ -5,7 +5,7 @@
 ### Hi there 👋, my name is tomal
 #### I am web developer
 
-Skills: VUE JS / REACT / JS / HTML / CSS/PHP
+Skills: HTML / CSS / PHP
 
 - 🔭 I’m currently working on Software Company 
 - 🌱 I’m currently learning PHP 
