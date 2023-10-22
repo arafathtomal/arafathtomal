@@ -23,10 +23,8 @@ Skills: HTML / CSS / PHP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arafathtomal&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arafathtomal)  
-
 ![GitHub metrics](https://metrics.lecoq.io/arafathtomal)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arafathtomal)  
 
-![Profile views](https://gpvc.arturio.dev/arafathtomal)  
+
